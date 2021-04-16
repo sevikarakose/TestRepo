@@ -1,6 +1,6 @@
-<mxfile modified="2021-04-16T09:10:52.413Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="igX7HTb_FxcebruB7OMe" version="14.6.0" type="github" pages="4">
+<mxfile modified="2021-04-16T09:34:53.785Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="UHbbg85IqTyYGWX-uujm" version="14.6.0" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Security &amp; Data">
-    <mxGraphModel dx="1960" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
           <mxGeometry x="40" y="596.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-10" value="Virtual Network" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="210" width="350" height="360" as="geometry" />
+          <mxGeometry x="405" y="210" width="350" height="560" as="geometry" />
         </mxCell>
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-11" value="&lt;font color=&quot;#000000&quot;&gt;Region 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="405" y="184" width="80" height="20" as="geometry" />
@@ -112,19 +112,7 @@
           <mxGeometry x="385" y="540" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-14" value="Azure &lt;br&gt;Key Vault" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="705" y="520" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-15" value="Virtual Network" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="405" y="666" width="350" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-16" value="&lt;font color=&quot;#000000&quot;&gt;Region 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="405" y="640" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-17" value="&lt;font color=&quot;#000000&quot;&gt;DDoS &lt;br&gt;Protection&lt;/font&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/DDOS_Protection_Plans.svg;fontColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="385" y="996" width="37" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-19" value="Azure &lt;br&gt;Key Vault" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="705" y="976" width="50" height="50" as="geometry" />
+          <mxGeometry x="687" y="678.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,10 +135,10 @@
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-24" value="Virtual network peering&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="935" y="610" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-34" value="" style="endArrow=classicThin;html=1;dashed=1;fontColor=#000000;entryX=-0.009;entryY=0.306;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" target="jci4MwPbw-lIzwUyz_FZ-10">
+        <mxCell id="jci4MwPbw-lIzwUyz_FZ-34" value="" style="endArrow=classicThin;html=1;dashed=1;fontColor=#000000;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="320" as="sourcePoint" />
-            <mxPoint x="330" y="260" as="targetPoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-36" value="" style="endArrow=classicThin;html=1;dashed=1;fontColor=#000000;entryX=-0.009;entryY=0.306;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1">
@@ -168,9 +156,6 @@
         <mxCell id="jci4MwPbw-lIzwUyz_FZ-38" value="Azure Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="640" y="230" width="68" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jci4MwPbw-lIzwUyz_FZ-39" value="Azure Functions" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="640" y="696.5" width="68" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="9Nz1cMUrFbBKSkVdHroD-1" target="w_MaDHWKGu7in0rT5QoT-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -179,19 +164,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9Nz1cMUrFbBKSkVdHroD-1" value="Azure &lt;br&gt;Sentinel &lt;br&gt;(SIEM &amp;amp; SOAR)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="652" y="326.5" width="44" height="50" as="geometry" />
+          <mxGeometry x="690" y="326.5" width="44" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="w_MaDHWKGu7in0rT5QoT-1" target="w_MaDHWKGu7in0rT5QoT-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-1" value="Azure &lt;br&gt;Sentinel &lt;br&gt;(SIEM &amp;amp; SOAR)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Sentinel.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="652" y="794.5" width="44" height="50" as="geometry" />
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.734;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="w_MaDHWKGu7in0rT5QoT-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="696" y="819.5294117647059" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-2" value="Azure Security &lt;br&gt;Center Dashboard" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Shared_Dashboard.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="790" y="230" width="85.37" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="37" height="50" as="geometry" />
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="454" y="246.5" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-5" value="Network &lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-12">
+          <mxGeometry x="108" y="30" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-7" value="DEV &amp;amp; TEST" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;fontFamily=Tahoma;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-12">
+          <mxGeometry width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-19" value="Azure Disk&lt;br&gt;&amp;nbsp;Encryption" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.disk_encryption;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-12">
+          <mxGeometry x="16" y="30" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="452" y="430" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-14" value="Network &lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-13">
+          <mxGeometry x="108" y="30" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-15" value="UAT" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;fontFamily=Tahoma;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-13">
+          <mxGeometry width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-20" value="Azure Disk&lt;br&gt;&amp;nbsp;Encryption" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.disk_encryption;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-13">
+          <mxGeometry x="18" y="30" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="452" y="610" width="145" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-17" value="Network &lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-16">
+          <mxGeometry x="108" y="30" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-18" value="PROD" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;fontFamily=Tahoma;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-16">
+          <mxGeometry width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-21" value="Azure Disk &lt;br&gt;Encryption" style="fillColor=#28A8E0;verticalLabelPosition=bottom;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.disk_encryption;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-16">
+          <mxGeometry x="18" y="33.5" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;dashed=1;fontFamily=Tahoma;fontColor=#B6BABF;fontStyle=0;align=left;verticalAlign=top;strokeColor=#B6BABF;fillColor=none;spacingLeft=30;" vertex="1" parent="1">
+          <mxGeometry x="457" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="w_MaDHWKGu7in0rT5QoT-18" target="w_MaDHWKGu7in0rT5QoT-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
