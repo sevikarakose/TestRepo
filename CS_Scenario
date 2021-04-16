@@ -1,4 +1,4 @@
-<mxfile modified="2021-04-16T10:30:23.422Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="_pOQkyPCxsSMjUHQAEbX" version="14.6.0" type="github" pages="4">
+<mxfile modified="2021-04-16T10:43:27.239Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="i3a38CalQMGr9tyC9tvj" version="14.6.0" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Security &amp; Data">
     <mxGraphModel dx="1960" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,19 +46,19 @@
         <mxCell id="k1J5Uft5zTIaOylSxwT3-11" value="&lt;span&gt;Azure Traffic Manager: Performs the global load balancing of web traffic across Azure regions, which have a regional load balancer based on Azure Application Gateway&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1274" y="52" width="449" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="k1J5Uft5zTIaOylSxwT3-13" value="&lt;span&gt;Network Security Group: To filter&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="k1J5Uft5zTIaOylSxwT3-13" value="Azure Disk Encryption: All disks are encrypted." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1273" y="293" width="450" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="k1J5Uft5zTIaOylSxwT3-14" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="k1J5Uft5zTIaOylSxwT3-14" value="Azure Key Vault: A self-signed trusted certificate authority since the whole traffic is encrypted.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1273" y="409" width="450" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="k1J5Uft5zTIaOylSxwT3-15" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="k1J5Uft5zTIaOylSxwT3-15" value="&lt;span&gt;Azure Sentinel:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;cloud-native security information and event manager (SIEM) platform that uses built-in AI to help analyze large volumes of data across an enterprise—fast.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1274" y="526" width="449" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="k1J5Uft5zTIaOylSxwT3-16" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="k1J5Uft5zTIaOylSxwT3-16" value="Network Security Group: To filter network traffic between different environments." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1274" y="642" width="450" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="k1J5Uft5zTIaOylSxwT3-17" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="k1J5Uft5zTIaOylSxwT3-17" value="&lt;span&gt;Azure Security Center Dashboard: A unified view of into the security posture of our cloud native workloads, with security alerts etc.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1274" y="757" width="449" height="113" as="geometry" />
         </mxCell>
         <mxCell id="k1J5Uft5zTIaOylSxwT3-18" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
@@ -121,9 +121,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.027;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jci4MwPbw-lIzwUyz_FZ-14">
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.027;entryY=0.67;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontFamily=Tahoma;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="jci4MwPbw-lIzwUyz_FZ-14" target="w_MaDHWKGu7in0rT5QoT-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="599.9989999999998" y="309.9999999999998" as="targetPoint" />
             <Array as="points">
               <mxPoint x="643" y="704" />
               <mxPoint x="643" y="310" />
@@ -223,9 +222,6 @@
         <mxCell id="w_MaDHWKGu7in0rT5QoT-51" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="960" width="145" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-52" value="Network &lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-51">
-          <mxGeometry x="108" y="30" width="37" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-53" value="PROD" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;fontFamily=Tahoma;" vertex="1" parent="w_MaDHWKGu7in0rT5QoT-51">
           <mxGeometry width="130" height="130" as="geometry" />
         </mxCell>
@@ -234,6 +230,9 @@
         </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-55" value="Application&lt;br&gt;Gateway" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="385" y="332.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-5" value="Network &lt;br&gt;Security Group" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Network_Security_Groups_Classic.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="562" y="276.5" width="37" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-7" value="DEV &amp;amp; TEST" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=1;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="454" y="246.5" width="130" height="130" as="geometry" />
@@ -262,20 +261,32 @@
         <mxCell id="w_MaDHWKGu7in0rT5QoT-56" value="Application&lt;br&gt;Gateway" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Gateway.svg;fontFamily=Tahoma;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="385" y="1000" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-57" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-57" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="647" y="710" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="w_MaDHWKGu7in0rT5QoT-58" value="&lt;span&gt;Azure Key Vault: A self-signed trusted certificate authority since the whole traffic is encrypted.&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1273" y="175" width="450" height="115" as="geometry" />
-        </mxCell>
         <mxCell id="w_MaDHWKGu7in0rT5QoT-59" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="230" width="40" height="38" as="geometry" />
+          <mxGeometry x="425" y="282.5" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-60" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="310" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-61" value="Application Gateway: To easily configure Web application firewall and enable DDos protection." style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1271.5" y="170" width="450" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-62" value="5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-63" value="7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="812.69" y="184" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="w_MaDHWKGu7in0rT5QoT-66" value="6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="230" width="40" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bQ2Gf04EA1TEHMQeZNnh" name="Observability">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="5lP2aPi3CVqJqKvpC_jj-0" />
         <mxCell id="5lP2aPi3CVqJqKvpC_jj-1" parent="5lP2aPi3CVqJqKvpC_jj-0" />
@@ -313,7 +324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9sjJT_bbBte9UxlzAeWs" name="Scalability">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-9ihX8Qk2E4QxfCCfawR-0" />
         <mxCell id="-9ihX8Qk2E4QxfCCfawR-1" parent="-9ihX8Qk2E4QxfCCfawR-0" />
